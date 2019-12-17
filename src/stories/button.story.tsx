@@ -11,4 +11,4 @@ storiesOf("Button", module)
       </span>
     </Button>
   ))
-  .add("with nothing", () => <Button>hello</Button>);
+  .add("with nothing", () => <Button>other change</Button>);
