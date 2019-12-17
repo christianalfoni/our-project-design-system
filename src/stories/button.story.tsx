@@ -10,4 +10,5 @@ storiesOf("Button", module)
         😀 😎 👍 💯
       </span>
     </Button>
-  ));
+  ))
+  .add("with nothing", () => <Button>hello</Button>);
