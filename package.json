@@ -1,0 +1,25 @@
+{
+  "name": "cranky-goldstine-8gn08",
+  "version": "1.0.0",
+  "description": "Design system template with React and Storybook - Typescript",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "start-storybook -p 8080"
+  },
+  "dependencies": {
+    "@babel/core": "7.4.5",
+    "@storybook/react": "latest",
+    "babel-loader": "8.0.6",
+    "react": "16.8.6",
+    "react-dom": "16.8.6"
+  },
+  "devDependencies": {
+    "@types/storybook__react": "4.0.2",
+    "nodemon": "1.18.4"
+  },
+  "keywords": [
+    "storybook",
+    "react",
+    "design-system"
+  ]
+}
